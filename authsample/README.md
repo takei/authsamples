@@ -1,2 +1,2 @@
-authsample
+authsamples
 ==========
